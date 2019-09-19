@@ -1,0 +1,9 @@
+*.tmp
+*.csv
+Capstone Project-Copy2.ipynb
+Capstone Project-Copy1.ipynb
+ML_Modeling (1).ipynb
+jams copy.ipynb
+.ipynb_checkpoints
+catboost_info
+
